@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1054760619727",
+    "project_id": "intradb-e6773",
+    "storage_bucket": "intradb-e6773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054760619727:android:0fd23f735631a76c8131ba",
+        "android_client_info": {
+          "package_name": "com.stpwinc.betatms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054760619727-eb70plstttnba8l8gviqclghogvmaq4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjZMmRmma00KXdUA81IETgSRvAAev5zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054760619727-eb70plstttnba8l8gviqclghogvmaq4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054760619727-kemttr76ktl75e1d8365m48v301fv7kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stpwinc.betatms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
