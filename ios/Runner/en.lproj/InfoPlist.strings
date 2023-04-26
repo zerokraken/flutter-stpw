@@ -1,0 +1,10 @@
+NSCameraUsageDescription = " Allow access to your data";
+NSPhotoLibraryUsageDescription = " Allow access to your data";
+NSLocationWhenInUseUsageDescription = " Allow access to your data";
+NSBluetoothAlwaysUsageDescription = " Allow access to your data";
+NSFaceIDUsageDescription = "Comfirn your Identification";
+NSCalendarsUsageDescription = " Allow access to your data";
+NSContactsUsageDescription = " Allow access to your data";
+NSMicrophoneUsageDescription = " Allow access to your data";
+PermissionGroupNotification = " Allow access to your data";
+ = "Allow access to your system";
